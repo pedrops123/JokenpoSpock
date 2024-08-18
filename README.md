@@ -1,8 +1,8 @@
-#Projeto Jokenpo Spock
+# Projeto Jokenpo Spock
 
  - Jokenpo spock 
-	- FaÁa uma escolha e o computador far· outra 
-	- No final ser· informado quem È o ganhador
+	- Fa√ßa uma escolha e o computador far√° outra 
+	- No final ser√° informado quem √© o ganhador
 
 
 
