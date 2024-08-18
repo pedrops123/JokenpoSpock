@@ -1,4 +1,4 @@
-﻿namespace jokenpo
+﻿namespace jokenpo.Models
 {
     public sealed class Player
     {
